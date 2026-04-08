@@ -1,3 +1,4 @@
+## [Live Demo](https://stockprediction-zts5fzsa7zuzvk4wnaqnvf.streamlit.app)
 # Empirical Analysis of ML Models for Stock Price Movement Prediction
 
 ## Overview
